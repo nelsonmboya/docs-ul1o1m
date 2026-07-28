@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-hfdi6i.nuansa138.site/sitemap.xml
